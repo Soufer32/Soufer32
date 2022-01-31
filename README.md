@@ -1,5 +1,8 @@
-## Olá! Sou Thiago de Souza Ferreria.
+<div align="center>
+  ## Olá! Sou Thiago de Souza Ferreria.
 - 💻 Estudando Desenvolvimento FullStack
+<div/>  
+  
 <div align="center">
   <a href="https://github.com/soufer32">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soufer32&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
