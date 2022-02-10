@@ -1,4 +1,4 @@
-  ## Olá! Sou Thiago de Souza Ferreria.
+  ## Olá! Sou Thiago de Souza Ferreira.
 - 💻 Estudando Desenvolvimento FullStack
  
 <div align="center">
