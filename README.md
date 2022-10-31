@@ -1,4 +1,4 @@
-  ##Thiago de Souza Ferreira.
+  #Thiago de Souza Ferreira.
 - 💻 Estudando Desenvolvimento FullStack
  
 <div align="center">
