@@ -11,8 +11,7 @@
   <img align="center" alt="Soufer-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Soufer-SCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
   <img align="center" alt="Soufer-SCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Soufer-SCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="Soufer-SCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/reactNative/react-original-wordmark.svg">
+  <img align="center" alt="Soufer-SCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">  
   <img align="center" alt="Soufer-SCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
 </div>
   
