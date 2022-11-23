@@ -1,5 +1,5 @@
   #Thiago de Souza Ferreira.
-- 💻 Estudando Desenvolvimento FullStack
+- 💻 Estudando Desenvolvimento Front-end
  
 <div align="center">
   <a href="https://github.com/soufer32">
